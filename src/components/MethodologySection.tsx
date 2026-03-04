@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 import methodologyImg from "@/assets/methodology.jpg";
 
 const phases = [
-  { number: "01", title: "INTRODUÇÃO", desc: "Desenvolvimento neuromuscular e adaptações iniciais" },
-  { number: "02", title: "CONSOLIDAÇÃO", desc: "Hipertrofia e trabalho pliométrico" },
-  { number: "03", title: "INTENSIFICAÇÃO", desc: "Força e potência com acompanhamento completo" },
-  { number: "04", title: "RECONSOLIDAÇÃO", desc: "Treinos metabólicos de alta intensidade" },
-  { number: "05", title: "INTEGRAÇÃO", desc: "Conclusão do ciclo e nova periodização" },
+  { number: "01", title: "INCORPORAÇÃO", desc: "Desenvolvimento neuromuscular e adaptações iniciais" },
+  { number: "02", title: "BASE", desc: "Hipertrofia e trabalho pliométrico" },
+  { number: "03", title: "DESENVOLVIMENTO", desc: "Força e potência com acompanhamento completo" },
+  { number: "04", title: "PERFORMANCE", desc: "Treinos metabólicos de alta intensidade" },
+  { number: "05", title: "AVALIAÇÃO E ACOMPANHMANETO", desc: "Conclusão do ciclo e nova periodização" },
 ];
 
 const MethodologySection = () => {
