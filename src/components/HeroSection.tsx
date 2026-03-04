@@ -29,7 +29,7 @@ const HeroSection = () => {
         >
           TREINE MELHOR,
           <br />
-          <span className="text-gradient">VIVA MELHOR</span>
+          <span className="text-gradient">VIVA MELHOR!!!</span>
         </motion.h1>
 
         <motion.p
